@@ -8,7 +8,9 @@ process, \
         format2, \
     format3, \
   format4, \
-format5
+format5, \
+SecondaryqR
+SecondaryqR()
 
 CRED = '\033[91m'
 CEND = '\033[0m'
