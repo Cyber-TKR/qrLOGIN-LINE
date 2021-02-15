@@ -9,7 +9,7 @@ $ ./working
 ```
 <html>
 </br>
- <br/><b>✦Thx To; PASUNX ➥<a href="https://github.com/LESTINGX/" title="@PASUNX"> @PASUNX </a></b>
+ <br/><b>✦Thx To; PASUNX ➥<a href="https://github.com/PASUNX" title="@PASUNX"> @PASUNX </a></b>
 </br>
 </br>
  <br/><b>✦Thx To; LESTINGX/API.CLIENT ➥<a href="https://github.com/LESTINGX/API.CLIENT" title="@API.CLIENT"> @API.CLIENT </a></b>
