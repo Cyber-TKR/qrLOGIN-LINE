@@ -1,4 +1,4 @@
-apt update
-apt install python3-pip
-pip3 install cybertk.line.api
-python3 cybertkqr.py
+sudo apt update
+sudo apt install python3-pip
+sudo pip3 install cybertk.line.api
+sudo python3 cybertkqr.py
