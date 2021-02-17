@@ -1,6 +1,6 @@
 # Coder: CyberTK
 # Thx All Support Team
-from cybertk.line.apis.path import CyberTKQR, \
+from cybertk.line.api.path import CyberTKQR, \
 process, \
   threads, \
     apsss, \
