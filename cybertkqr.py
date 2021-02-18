@@ -2,20 +2,20 @@
 # Thx All Support Team
 from cybertk.line.api.path import CyberTKQR, \
 process, \
-  threads, \
-    apsss, \
-      format1, \
-        format2, \
-    format3, \
-  format4, \
-format5, \
-SecondaryqR
+      threads, \
+        apsss, \
+          format1, \
+            format2, \
+        format3, \
+      format4, \
+    format5, \
+  SecondaryqR
 SecondaryqR()
 
 CRED = '\033[91m'
 CEND = '\033[0m'
 
-CyberTKAPIWEB = CyberTKQR()
+
 
 print(CRED + process + CEND)
 input(CRED + threads + CEND)
@@ -28,7 +28,7 @@ app5 = ["desktopmac"]
 
 
 Apps = int(input(CRED + apsss + CEND))
-
+CyberTKAPIWEB = CyberTKQR()
 UygulamaADI = ""
 if Apps == 1:
   UygulamaADI = UygulamaADI.join(app1) 
