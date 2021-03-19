@@ -1,4 +1,4 @@
-from cybertk.api.line.path import CyberTKQR,process,threads,apsss,format1,format2,format3,format4,format5,SecondaryqR
+from cybertk.line.api.path import CyberTKQR,process,threads,apsss,format1,format2,format3,format4,format5,SecondaryqR
 SecondaryqR()
 CRED='\x1b[91m'
 CEND='\x1b[0m'
